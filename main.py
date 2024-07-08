@@ -1,6 +1,1 @@
-print('Hola mundo')
-print('Hola mundo')
-print('Hola mundo')
-print('Hola mundo')
-print('Hola mundo')
-print('Hola mundo')
+print('Hola Analitica Noviembre soy Jose')
